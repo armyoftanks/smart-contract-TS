@@ -24,7 +24,7 @@ Certainly, I can guide you through the process of setting up a smart contract us
    pip install vyper
    ```
 
-4. **Install Node.js and npm**:
+4. **Exit virtual environemnt and install Node.js and npm**:
    Install Node.js and npm using Homebrew:
    ```bash
    brew install node
@@ -52,8 +52,8 @@ Certainly, I can guide you through the process of setting up a smart contract us
    npx hardhat
    ```
 
-9. **Write Smart Contract**:
-   Use Vyper to write your ERC-721 smart contract. Place the `.vy` file in the `contracts` directory of your Hardhat project.
+9. **Enter virtual environment and write Smart Contract**:
+   Use Vyper to write your ERC-721 smart contract. Place the `.vy` file in the `contracts` directory of your Hardhat project outside of the virtual environment.
 
 10. **Compile and Deploy**:
     Use Hardhat to compile and deploy your contract. Update the deployment scripts in the `scripts` directory to match your contract's deployment.
