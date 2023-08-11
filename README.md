@@ -1,5 +1,5 @@
 # NFT
-CHATGPT GENERATED STEPS:
+CHATGPT GENERATED STEPS + HUMAN MODIFICATIONS:
 
 Certainly, I can guide you through the process of setting up a smart contract using the tools and components you've mentioned. Here's a step-by-step guide:
 
