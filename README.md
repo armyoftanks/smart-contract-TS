@@ -1,7 +1,4 @@
 # NFT
-CHATGPT GENERATED STEPS + HUMAN MODIFICATIONS:
-
-Certainly, I can guide you through the process of setting up a smart contract using the tools and components you've mentioned. Here's a step-by-step guide:
 
 1. **Install Homebrew**:
    If you haven't already, install Homebrew on your Mac. Open Terminal and run:
