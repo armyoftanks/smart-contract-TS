@@ -71,7 +71,6 @@
 
 FOLDER STRUCTURE:
 
-    Certainly! Here's a suggested file structure for your smart contract project on your computer and in your GitHub repository:
 
 **File Structure on Your Computer:**
 ```
@@ -95,7 +94,6 @@ FOLDER STRUCTURE:
 └── hardhat.config.js
 ```
 
-Here's a brief explanation of the folders and files in the structure:
 
 - `<project-folder>` or `<repository-name>`: This is the main folder for your project or repository.
 
@@ -110,9 +108,6 @@ Here's a brief explanation of the folders and files in the structure:
 - `.gitignore`: This file specifies which files and folders should be excluded from version control. It helps you avoid committing unnecessary files, like virtual environment folders or local build artifacts.
 
 In your GitHub repository, you'll commit the contents of the project folder (`<repository-name>`) except for any sensitive or auto-generated files that should be excluded using the `.gitignore` file.
-
-Remember, this is a basic file structure and can be customized based on your preferences and project needs. It's also important to follow best practices for version control, like regular commits, meaningful commit messages, and frequent updates to your repository.
-Please note that this is a general outline, and the actual steps may vary based on specific project requirements and changes to tools since my last update in September 2021. Always refer to the official documentation of the tools and platforms for the most accurate and up-to-date instructions.
 
 ----------------------------------------------------
 
